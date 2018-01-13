@@ -3,6 +3,12 @@
     margin: 0;
     padding: 0;
   }
+ 
+body{
+
+    /*background-image: url("../img/DEV1.jpeg");*/
+    background-color: azure;
+}  
 
 nav{
     
@@ -30,12 +36,10 @@ nav{
    /* background-image: url("../img/Imagem1.jpg")*/
 }
 
-#contato{ 
-   
-     margin-top: -150px;
-    
-}
-
+.parallax-container {
+    height: 500px;
+  }
+      
 
 #rodape{
     
